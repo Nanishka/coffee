@@ -1,0 +1,21 @@
+body { 
+    background-image: url(https://i.pinimg.com/564x/c4/65/59/c46559823456444dbe9ee3fd45850bab.jpg);
+}
+ /* Make the image fully responsive */
+ .carousel-inner img {
+  width: 1000px;
+  height: 600px;
+}
+
+ .container-fluid {
+padding-left: 80px;
+ }
+ h1 {
+  text-align: center;
+  margin-top: 30px;
+  color: rgb(85, 83, 87);
+ }  
+ h3 {
+  text-align: start;
+ }
+      
